@@ -1,7 +1,6 @@
 import { DateTime } from './datetime';
 import DateTimeFormatOptions = Intl.DateTimeFormatOptions;
 import Namespace from './namespace';
-import { TempusDominus } from './tempus-dominus';
 
 export default interface Options {
   restrictions: {

@@ -1,16 +1,1 @@
-/assets
-/_includes
-/_layouts
-/.gitignore
 /node_modules
-/Makefile
-/test
-*.log
-*.swp
-*~
-*.tgz
-/site
-*.user
-*.csproj
-*.sln
-*.nupkg
